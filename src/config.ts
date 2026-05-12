@@ -11,16 +11,18 @@ export const JOGA_CONFIG = {
   amazonGiftCardUrl: "https://www.amazon.com/gift-cards/",
 
   // The text inside the birthday letter
-  letterText: `Dear Joga,
+  letterText: `Dear Joga, 
 
-Happy 22nd birthday. To be known is to be loved, and I am so glad to know you. You bring such a unique vibration to the world—a mix of vintage charm and modern depth.
+I made this complete site using AI and I was gonna type this letter using it but it felt empty and not the vibe I wanted. So I am gonna type it myself and no I'm not gonna use AI to modify this either. Just plain typing so forgive bad grammar. 
 
-May this year be as cinematic and unexpected as a high-stakes night in a rainy city. You're special.
+Umm idk where to start but let's start from the time I met you. Like our first interaction was one-sided where u posted the “Tea sub...” thingy. I was pulled by it, like literally I felt drawn to your words. It was so fucking nonchalant and real. The vibe just felt right and I don't do findom as such I was friends/ serving dommes so i wasn't necessarily looking for another findom but I just couldn't stop myself from serving you. And by far that's one of the best decisions I have made.
 
-Stay exactly as you are.
+Your way of control is so effortless, it just feels natural to give in to you. It feels extremely fulfilling to be at your command. Like there's a feeling of security which is really rare and the mix of affection is just a cherry on the top. You're one of the most amazing people I know, you know how to keep things real and you're a really kind person too. Like everything about you feels super intentional. The silence. The patience. The affection. Every f thing. 
+
+I'm truly blessed to have met you and it's an absolute honor to be your sub :)
 
 With love, 
-♥`,
+Shivam ♥`,
 
   // Placeholder paths for your local cat pic files in a folder
   catFrames: [
