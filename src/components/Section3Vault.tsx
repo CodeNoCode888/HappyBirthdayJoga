@@ -18,7 +18,7 @@ export default function Section3Vault() {
         className="text-center mb-24 z-10"
       >
         <p className="text-joga-red text-[10px] font-mono tracking-[0.4em] mb-4 uppercase opacity-60">Phase_Three</p>
-        <h2 className="text-[#FF0000] text-3xl md:text-5xl font-black italic uppercase leading-tight mb-12 tracking-tighter max-w-2xl mx-auto">
+       <h2 className="text-[#b11226] text-3xl md:text-5xl font-serif font-normal italic leading-relaxed mb-12 tracking-wide max-w-2xl mx-auto">
           "Rose, oh reiner Widerspruch, Lust,<br />Niemandes Schlaf zu sein unter soviel Lidern."
         </h2>
       </motion.div>
